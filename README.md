@@ -25,4 +25,3 @@
 </div>
 
 
-<div align="center"><img src="https://raw.githubusercontent.com/FishandWasabi/FishandWasabi/main/assets/github-contribution-grid-snake.svg" ></div>
