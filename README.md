@@ -1,7 +1,7 @@
 ### ✨ 陈宇铭 Yu-Ming Chen
 
 I am a master student of _TMCC, College of Computer Science, Nankai University, China_, under the supervision of Prof. Ming-Ming Cheng & Prof. Qi-Bin Hou. 
-My research interests are in computer vision and machine learning, with a particular focus on image enhancement and restoration.
+My research interests are in computer vision and machine learning, with a particular focus on Object Detection and Knowledge Distillation.
 
 
 <!--
