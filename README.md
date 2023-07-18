@@ -23,3 +23,6 @@
 <div align="center">
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=FishAndWasabi&show_icons=true&theme=radical" />
 </div>
+
+
+<div align="center"><img src="https://raw.githubusercontent.com/FishandWasabi/FishandWasabi/main/assets/github-contribution-grid-snake.svg" ></div>
