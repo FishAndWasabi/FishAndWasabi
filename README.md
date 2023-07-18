@@ -4,14 +4,6 @@
 </p>
 </h1>
 
-<div align="center">
-    <span>  </span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=FishAndWasabi" />
-    <span>  </span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FishAndWasabi&layout=compact&langs_count=8" />
-    <span>  </span>
-</div>
-
 <samp>
   
 :mortar_board: I’m currently a first-year graduate student of _TMCC, College of Computer Science, Nankai University, supervised by Prof. [Ming-Ming Cheng](https://mmcheng.net) & Prof. [Qi-Bin Hou](https://houqb.github.io/).
@@ -21,3 +13,11 @@
 :page_with_curl: All my research works: [Google scholar](https://scholar.google.com/citations?user=EweNbRAAAAAJ&hl=zh-CN).
   
 :mailbox: Email contact: chenyuming@mail.nankai.edu.cn.
+
+<div align="center">
+    <span>  </span>
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=FishAndWasabi" />
+    <span>  </span>
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FishAndWasabi&layout=compact&langs_count=8" />
+    <span>  </span>
+</div>
