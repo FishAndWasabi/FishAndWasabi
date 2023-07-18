@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=FishAndWasabi&show_icons=true&theme=radical" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=FishAndWasabi&&count_private=true&show_icons=false&theme=gradient" />
 </div>
 
 
