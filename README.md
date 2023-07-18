@@ -1,9 +1,7 @@
 <h1 align="center">
-  <samp>
     <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+TC&weight=900&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=%E2%9D%A4+%E9%99%88%E5%AE%87%E9%93%AD+Yu-Ming+Chen" alt="typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+TC&weight=900&size=64&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1300&height=100&lines=%E2%9D%A4+%E9%99%88%E5%AE%87%E9%93%AD+Yu-Ming+Chen" alt="typing-svg">
 </p>
-    <br><br>
 </h1>
 
 <samp>
