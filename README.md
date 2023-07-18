@@ -12,6 +12,6 @@
 
 :laughing: My research interests are Object Detection and Knowledge Distillation.
   
-:page_with_curl: All my research works: [Google scholar]([https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=zh-CN&oi=ao](https://scholar.google.com/citations?user=EweNbRAAAAAJ&hl=zh-CN)https://scholar.google.com/citations?user=EweNbRAAAAAJ&hl=zh-CN).
+:page_with_curl: All my research works: [Google scholar](https://scholar.google.com/citations?user=EweNbRAAAAAJ&hl=zh-CN).
   
 :mailbox: Email contact: chenyuming@mail.nankai.edu.cn.
