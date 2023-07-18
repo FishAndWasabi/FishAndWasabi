@@ -1,20 +1,17 @@
-### ✨ 陈宇铭 Yu-Ming Chen
+<h1 align="center">
+  <samp>
+     ✨ 陈宇铭 Yu-Ming Chen
+    <br><br>
+</h1>
 
-I am a master student of _TMCC, College of Computer Science, Nankai University, China_, under the supervision of Prof. Ming-Ming Cheng & Prof. Qi-Bin Hou. 
-My research interests are in computer vision and machine learning, with a particular focus on Object Detection and Knowledge Distillation.
 
 
-<!--
-**FishAndWasabi/FishAndWasabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<samp>
+  
+:mortar_board: I’m currently a first-year graduate student of _TMCC, College of Computer Science, Nankai University, supervised by [Prof. Ming-Ming Cheng](https://mmcheng.net) & [Prof. Qi-Bin Hou](https://houqb.github.io/).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:laughing: My research interests are Object Detection and Knowledge Distillation.
+  
+:page_with_curl: All my research works: [Google scholar]([https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=zh-CN&oi=ao](https://scholar.google.com/citations?user=EweNbRAAAAAJ&hl=zh-CN)https://scholar.google.com/citations?user=EweNbRAAAAAJ&hl=zh-CN).
+  
+:mailbox: Email contact: chenyuming@mail.nankai.edu.cn.
