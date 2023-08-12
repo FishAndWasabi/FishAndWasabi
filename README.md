@@ -22,14 +22,16 @@
 
 <br>
 
+<div align="center">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=FishAndWasabi&&count_private=true&show_icons=false&theme=neon" />
+</div>
+
 <h1 align="center"> 
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/FishAndWasabi/count.svg" />
 </h1>
 
-<div align="center">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=FishAndWasabi&&count_private=true&show_icons=false&theme=neon" />
-</div>
+
 
 
 
