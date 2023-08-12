@@ -22,6 +22,11 @@
 
 <br>
 
+<h1 align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/RQ-Wu/count.svg" />
+</h1>
+
 <div align="center">
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=FishAndWasabi&&count_private=true&show_icons=false&theme=neon" />
 </div>
