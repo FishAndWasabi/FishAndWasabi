@@ -22,6 +22,10 @@
 
 <br>
 
+<p align="center"> 
+<img src="https://api.star-history.com/svg?repos=FishAndWasabi/YOLO-MS,jbwang1997/CrossKD&type=Date" style="width:70%"/>
+</p>
+
 <div align="center">
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=FishAndWasabi&&count_private=true&show_icons=false&theme=neon" />
 </div>
@@ -31,10 +35,7 @@
   <img src="https://profile-counter.glitch.me/FishAndWasabi/count.svg" />
 </h1>
 
-## Star History
-<p align="center"> 
-<img src="https://api.star-history.com/svg?repos=FishAndWasabi/YOLO-MS,jbwang1997/CrossKD&type=Date" style="width:70%"/>
-</p>
+
 
 
 
