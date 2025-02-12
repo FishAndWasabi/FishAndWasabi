@@ -6,7 +6,7 @@
 
 <samp>
   
-:mortar_board: I’m currently a first-year graduate student of VCIP, College of Computer Science, Nankai University, supervised by Prof. [Ming-Ming Cheng](https://mmcheng.net) & Prof. [Qi-Bin Hou](https://houqb.github.io/).
+:mortar_board: I’m currently a first-year PHD student of VCIP, College of Computer Science, Nankai University, supervised by Prof. [Ming-Ming Cheng](https://mmcheng.net) & Prof. [Qi-Bin Hou](https://houqb.github.io/).
 
 :laughing: My research interests are **Vision Understanding**, **Object Detection** and **Knowledge Distillation**.
 
