@@ -6,7 +6,7 @@
 
 <samp>
   
-:mortar_board: I’m currently a first-year PHD student of VCIP, College of Computer Science, Nankai University, supervised by Prof. [Ming-Ming Cheng](https://mmcheng.net) & Prof. [Qi-Bin Hou](https://houqb.github.io/).
+:mortar_board: I’m currently a first-year Ph.D. student of VCIP, College of Computer Science, Nankai University, supervised by Prof. [Ming-Ming Cheng](https://mmcheng.net) & Prof. [Qi-Bin Hou](https://houqb.github.io/).
 
 :laughing: My research interests are **Vision Understanding**, **Object Detection** and **Knowledge Distillation**.
 
@@ -14,7 +14,7 @@
 
 :page_with_curl: All my research works: [Google scholar](https://scholar.google.com/citations?user=EweNbRAAAAAJ&hl=zh-CN).
   
-:mailbox: Email contact: chenyuming@mail.nankai.edu.cn.
+:mailbox: You are very welcome to contact me regarding my research. I can be contacted directly at chenyuming@mail.nankai.edu.cn.
 
 <br>
 
