@@ -1,6 +1,6 @@
 <h1 align="center">
     <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+TC&weight=900&size=64&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=1300&height=100&lines=%E2%9D%A4+%E9%99%88%E5%AE%87%E9%93%AD+Yu-Ming+Chen" alt="typing-svg">
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=15&text=Hi,%20I'm%20Yuming%20Chen!~👋&fontAlignY=25&fontSize=30&fontColor=FFFFFF" alt="typing-svg">
 </p>
 </h1>
 
